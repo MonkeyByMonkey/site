@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://MonkeyByMonkey.github.io/blog/archives/</loc>
+        <loc>http://monkeybymonkey.com/blog/archives/</loc>
         <lastmod>2013-12-28T03:36:57+01:00</lastmod>
     </url>
     <url>
-        <loc>http://MonkeyByMonkey.github.io/blog/</loc>
+        <loc>http://monkeybymonkey.com/blog/</loc>
         <lastmod>2013-12-28T03:36:57+01:00</lastmod>
     </url>
     <url>
-        <loc>http://MonkeyByMonkey.github.io/</loc>
-        <lastmod>2013-12-28T03:36:57+01:00</lastmod>
+        <loc>http://monkeybymonkey.com/</loc>
+        <lastmod>2014-01-12T18:40:13+01:00</lastmod>
     </url>
     <url>
-        <loc>http://MonkeyByMonkey.github.io/robots.txt</loc>
+        <loc>http://monkeybymonkey.com/robots.txt</loc>
         <lastmod>2013-12-28T03:36:57+01:00</lastmod>
     </url>
 </urlset>

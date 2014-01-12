@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://MonkeyByMonkey.github.io/sitemap.xml 
+Sitemap: http://monkeybymonkey.com/sitemap.xml 
