@@ -4,9 +4,12 @@ body > header {
   margin-bottom: 2em;
 
   .site-title {
-    color: $grayDarker;
-    font-size: 1.7em;
-    font-weight: bold;
-    line-height: 2.5em;
+    display: inline-block;
+    height: 80px;
+    line-height: 80px;
+
+    img {
+      vertical-align: middle;
+    }
   }
 }

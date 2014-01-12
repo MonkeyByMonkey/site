@@ -8,7 +8,7 @@
   .icon {
     i {
       @include border-radius(50%);
-      border: 10px solid $blue;
+      border: 10px solid $primary-color;
       color: $grayDarker;
       display: inline-block;
       font-size: 6em;

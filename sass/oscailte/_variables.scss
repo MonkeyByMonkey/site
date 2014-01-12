@@ -5,7 +5,7 @@ $use-gridfix:       true;
 
 // Fonts & Font Families
 $serif: Georgia, 'Times New Roman', Times, serif !default;
-$sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$sans-serif: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 
 // Grays
 // -------------------------
@@ -50,8 +50,8 @@ $footer-height: 100px;
 
 // Site colors
 // -------------------------
-$primary-color:     $blue;
-$secondary-color:   $green;
+$primary-color:     $grayLight;
+$secondary-color:   $gray;
 // -------------------------
 $site-background:   #F5F5F5;
 $header-background: $white;

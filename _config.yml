@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://MonkeyByMonkey.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://monkeybymonkey.com
+title: Monkey By Monkey
+subtitle: 'We are an independent video game developer based in Gothenburg, SE.'
+author: Monkey By Monkey
 simple_search: http://google.com/search
 description:
 
